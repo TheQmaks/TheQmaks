@@ -103,26 +103,26 @@ Android Dynamic Class Dumper — dump all DEX files from running Android apps us
 </details>
 
 <details>
-<summary><b>🛡️ Security Tools</b></summary>
+<summary><b>🛡️ Security & Pentesting</b></summary>
 <br/>
 
 | Project | Description | Stars |
 |---------|-------------|:-----:|
-| [reSolver](https://github.com/TheQmaks/reSolver) | BurpSuite extension for automated CAPTCHA solving | ⭐ 4 |
-| [phishgram](https://github.com/TheQmaks/phishgram) | Toolkit for authorized red-team simulations on Telegram | — |
-| [WAFuzzer](https://github.com/TheQmaks/WAFuzzer) | WhatsApp fuzzer based on Selenium | — |
+| [reSolver](https://github.com/TheQmaks/reSolver) | BurpSuite extension — automated CAPTCHA solving (6 providers, 8 CAPTCHA types) | ⭐ 4 |
+| [phishgram](https://github.com/TheQmaks/phishgram) | Credential harvesting toolkit for authorized red-team simulations on Telegram | — |
+| [WAFuzzer](https://github.com/TheQmaks/WAFuzzer) | WhatsApp bot fuzzer — payload injection via Selenium | — |
 
 </details>
 
 <details>
-<summary><b>📱 Telegram Research</b></summary>
+<summary><b>🔍 Reverse Engineering & Research</b></summary>
 <br/>
 
 | Project | Description | Stars |
 |---------|-------------|:-----:|
-| [chatruletka](https://github.com/TheQmaks/chatruletka) | Reverse engineering research | ⭐ 4 |
-| [telebrief](https://github.com/TheQmaks/telebrief) | Telegram channel analyzer with metrics & reporting | ⭐ 1 |
-| [telegram-web-unpacked](https://github.com/TheQmaks/telegram-web-unpacked) | Unpacked Telegram web app for research | ⭐ 1 |
+| [chatruletka](https://github.com/TheQmaks/chatruletka) | Step-by-step JavaScript deobfuscation of a video chat application | ⭐ 4 |
+| [telegram-web-unpacked](https://github.com/TheQmaks/telegram-web-unpacked) | Unpacked Telegram web app — source map reverse engineering | ⭐ 1 |
+| [telebrief](https://github.com/TheQmaks/telebrief) | Telegram channel analyzer with 20+ metrics and reporting | ⭐ 1 |
 
 </details>
 
@@ -149,7 +149,7 @@ Android Dynamic Class Dumper — dump all DEX files from running Android apps us
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=TheQmaks&theme=github-dark-blue&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=TheQmaks&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
