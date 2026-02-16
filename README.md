@@ -41,12 +41,13 @@ Security researcher and reverse engineer focused on **Android security**, **dyna
 
 ### 🔥 Featured Projects
 
-<div align="center">
-<a href="https://github.com/TheQmaks/JavaInjector"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=TheQmaks&repo=JavaInjector&theme=github_dark&hide_border=true" /></a>
-<a href="https://github.com/TheQmaks/soSaver"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=TheQmaks&repo=soSaver&theme=github_dark&hide_border=true" /></a>
-<a href="https://github.com/TheQmaks/phantom-frida"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=TheQmaks&repo=phantom-frida&theme=github_dark&hide_border=true" /></a>
-<a href="https://github.com/TheQmaks/clsdumper"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=TheQmaks&repo=clsdumper&theme=github_dark&hide_border=true" /></a>
-</div>
+> **[JavaInjector](https://github.com/TheQmaks/JavaInjector)** — Inject JAR files into running Java processes through DLL injection `C++`
+>
+> **[soSaver](https://github.com/TheQmaks/soSaver)** — Frida-based extraction of native `.so` libraries from Android apps `Python`
+>
+> **[phantom-frida](https://github.com/TheQmaks/phantom-frida)** — Anti-detection Frida server builder. ~90 patches, 16 detection vectors, weekly auto-builds `Python`
+>
+> **[clsdumper](https://github.com/TheQmaks/clsdumper)** — Dump all DEX files from running Android apps using Frida `TypeScript`
 
 ---
 
@@ -108,13 +109,17 @@ Security researcher and reverse engineer focused on **Android security**, **dyna
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=TheQmaks&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheQmaks&theme=github_dark" />
 &nbsp;&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheQmaks&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TheQmaks&theme=github_dark" />
 
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=TheQmaks&theme=github-dark-blue&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheQmaks&theme=github_dark" />
 
 </div>
 
