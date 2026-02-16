@@ -42,44 +42,10 @@ Security researcher and reverse engineer focused on **Android security**, **dyna
 ### 🔥 Featured Projects
 
 <div align="center">
-<table>
-<tr>
-<td align="center" width="50%">
-
-**[JavaInjector](https://github.com/TheQmaks/JavaInjector)**
-![Stars](https://img.shields.io/github/stars/TheQmaks/JavaInjector?style=flat-square&color=yellow) · C++
-
-Inject JAR files into running Java processes through DLL injection. The most popular tool in my arsenal.
-
-</td>
-<td align="center" width="50%">
-
-**[soSaver](https://github.com/TheQmaks/soSaver)**
-![Stars](https://img.shields.io/github/stars/TheQmaks/soSaver?style=flat-square&color=yellow) · Python / Frida
-
-Frida-based utility for dynamically extracting native `.so` libraries from running Android applications.
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-**[phantom-frida](https://github.com/TheQmaks/phantom-frida)**
-![Stars](https://img.shields.io/github/stars/TheQmaks/phantom-frida?style=flat-square&color=yellow) · Python
-
-Build anti-detection Frida server from source. ~90 patches covering 16 detection vectors, weekly auto-builds.
-
-</td>
-<td align="center" width="50%">
-
-**[clsdumper](https://github.com/TheQmaks/clsdumper)**
-![Stars](https://img.shields.io/github/stars/TheQmaks/clsdumper?style=flat-square&color=yellow) · TypeScript / Frida
-
-Android Dynamic Class Dumper — dump all DEX files from running Android apps using Frida.
-
-</td>
-</tr>
-</table>
+<a href="https://github.com/TheQmaks/JavaInjector"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=TheQmaks&repo=JavaInjector&theme=github_dark&hide_border=true" /></a>
+<a href="https://github.com/TheQmaks/soSaver"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=TheQmaks&repo=soSaver&theme=github_dark&hide_border=true" /></a>
+<a href="https://github.com/TheQmaks/phantom-frida"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=TheQmaks&repo=phantom-frida&theme=github_dark&hide_border=true" /></a>
+<a href="https://github.com/TheQmaks/clsdumper"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=TheQmaks&repo=clsdumper&theme=github_dark&hide_border=true" /></a>
 </div>
 
 ---
@@ -90,14 +56,14 @@ Android Dynamic Class Dumper — dump all DEX files from running Android apps us
 <summary><b>🔓 Android Security & Reverse Engineering</b></summary>
 <br/>
 
-| Project | Description | Stars |
-|---------|-------------|:-----:|
-| [JavaInjector](https://github.com/TheQmaks/JavaInjector) | Inject JAR files into Java processes via DLL injection | ![](https://img.shields.io/github/stars/TheQmaks/JavaInjector?style=flat-square) |
-| [soSaver](https://github.com/TheQmaks/soSaver) | Extract native `.so` libraries from Android apps with Frida | ![](https://img.shields.io/github/stars/TheQmaks/soSaver?style=flat-square) |
-| [phantom-frida](https://github.com/TheQmaks/phantom-frida) | Anti-detection Frida server builder (~90 patches, 16 vectors) | ![](https://img.shields.io/github/stars/TheQmaks/phantom-frida?style=flat-square) |
-| [clsdumper](https://github.com/TheQmaks/clsdumper) | Dump DEX files from running Android apps via Frida | ![](https://img.shields.io/github/stars/TheQmaks/clsdumper?style=flat-square) |
-| [APPATCHER](https://github.com/TheQmaks/APPATCHER) | Android application patcher for network debugging | ![](https://img.shields.io/github/stars/TheQmaks/APPATCHER?style=flat-square) |
-| [justapk](https://github.com/TheQmaks/justapk) | Download any APK by package name — 6 sources, auto fallback | ![](https://img.shields.io/github/stars/TheQmaks/justapk?style=flat-square) |
+| Project | Description |
+|---------|-------------|
+| [JavaInjector](https://github.com/TheQmaks/JavaInjector) | Inject JAR files into Java processes via DLL injection |
+| [soSaver](https://github.com/TheQmaks/soSaver) | Extract native `.so` libraries from Android apps with Frida |
+| [phantom-frida](https://github.com/TheQmaks/phantom-frida) | Anti-detection Frida server builder (~90 patches, 16 vectors) |
+| [clsdumper](https://github.com/TheQmaks/clsdumper) | Dump DEX files from running Android apps via Frida |
+| [APPATCHER](https://github.com/TheQmaks/APPATCHER) | Android application patcher for network debugging |
+| [justapk](https://github.com/TheQmaks/justapk) | Download any APK by package name — 6 sources, auto fallback |
 
 </details>
 
@@ -105,11 +71,11 @@ Android Dynamic Class Dumper — dump all DEX files from running Android apps us
 <summary><b>🛡️ Security & Pentesting</b></summary>
 <br/>
 
-| Project | Description | Stars |
-|---------|-------------|:-----:|
-| [reSolver](https://github.com/TheQmaks/reSolver) | BurpSuite extension — automated CAPTCHA solving (6 providers, 8 CAPTCHA types) | ![](https://img.shields.io/github/stars/TheQmaks/reSolver?style=flat-square) |
-| [phishgram](https://github.com/TheQmaks/phishgram) | Credential harvesting toolkit for authorized red-team simulations on Telegram | ![](https://img.shields.io/github/stars/TheQmaks/phishgram?style=flat-square) |
-| [WAFuzzer](https://github.com/TheQmaks/WAFuzzer) | WhatsApp bot fuzzer — payload injection via Selenium | ![](https://img.shields.io/github/stars/TheQmaks/WAFuzzer?style=flat-square) |
+| Project | Description |
+|---------|-------------|
+| [reSolver](https://github.com/TheQmaks/reSolver) | BurpSuite extension — automated CAPTCHA solving (6 providers, 8 CAPTCHA types) |
+| [phishgram](https://github.com/TheQmaks/phishgram) | Credential harvesting toolkit for authorized red-team simulations on Telegram |
+| [WAFuzzer](https://github.com/TheQmaks/WAFuzzer) | WhatsApp bot fuzzer — payload injection via Selenium |
 
 </details>
 
@@ -117,11 +83,11 @@ Android Dynamic Class Dumper — dump all DEX files from running Android apps us
 <summary><b>🔍 Reverse Engineering & Research</b></summary>
 <br/>
 
-| Project | Description | Stars |
-|---------|-------------|:-----:|
-| [chatruletka](https://github.com/TheQmaks/chatruletka) | Step-by-step JavaScript deobfuscation of a video chat application | ![](https://img.shields.io/github/stars/TheQmaks/chatruletka?style=flat-square) |
-| [telegram-web-unpacked](https://github.com/TheQmaks/telegram-web-unpacked) | Unpacked Telegram web app — source map reverse engineering | ![](https://img.shields.io/github/stars/TheQmaks/telegram-web-unpacked?style=flat-square) |
-| [telebrief](https://github.com/TheQmaks/telebrief) | Telegram channel analyzer with 20+ metrics and reporting | ![](https://img.shields.io/github/stars/TheQmaks/telebrief?style=flat-square) |
+| Project | Description |
+|---------|-------------|
+| [chatruletka](https://github.com/TheQmaks/chatruletka) | Step-by-step JavaScript deobfuscation of a video chat application |
+| [telegram-web-unpacked](https://github.com/TheQmaks/telegram-web-unpacked) | Unpacked Telegram web app — source map reverse engineering |
+| [telebrief](https://github.com/TheQmaks/telebrief) | Telegram channel analyzer with 20+ metrics and reporting |
 
 </details>
 
@@ -129,10 +95,10 @@ Android Dynamic Class Dumper — dump all DEX files from running Android apps us
 <summary><b>🔧 Utilities</b></summary>
 <br/>
 
-| Project | Description | Stars |
-|---------|-------------|:-----:|
-| [pastyper](https://github.com/TheQmaks/pastyper) | Types clipboard content char-by-char when Ctrl+V doesn't work | ![](https://img.shields.io/github/stars/TheQmaks/pastyper?style=flat-square) |
-| [UIAutomatorViewer](https://github.com/TheQmaks/UIAutomatorViewer) | Modified UIAutomatorViewer build for Windows x64 | ![](https://img.shields.io/github/stars/TheQmaks/UIAutomatorViewer?style=flat-square) |
+| Project | Description |
+|---------|-------------|
+| [pastyper](https://github.com/TheQmaks/pastyper) | Types clipboard content char-by-char when Ctrl+V doesn't work |
+| [UIAutomatorViewer](https://github.com/TheQmaks/UIAutomatorViewer) | Modified UIAutomatorViewer build for Windows x64 |
 
 </details>
 
